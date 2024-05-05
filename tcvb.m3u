@@ -1,9 +1,9 @@
-#EXTINF:0,Người Nện
+#EXTINF:0 tvg-id="nguoinen",Người Nện
 #EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
 https://obevcimanyd179249207.thapcam.link/live/Z2FHD/chunklist.m3u8
-#EXTINF:0,Người Móm
+#EXTINF:0 tvg-id="nguoimom",Người Móm
 #EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
 https://obevcimanyd179249207.thapcam.link/live/momFHD/chunklist.m3u8
-#EXTINF:0,Người Cá
+#EXTINF:0 tvg-id="nguoica",Người Cá
 #EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
 https://obevcimanyd179249207.thapcam.link/live/caFHD/chunklist.m3u8
