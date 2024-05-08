@@ -1,6 +1,8 @@
 #EXTINF:0,may1 FHD
 #EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
 https://obevcimanyd179249207.thapcam.link/live/may1FHD/chunklist.m3u8#|Referer=https://xem.bdhub.xyz/
+#EXTINF:0,Z3 FHD
+https://obevcimanyd179249207.thapcam.link/live/Z3FHD/chunklist.m3u8#|Referer=https://xem.bdhub.xyz/
 #EXTINF:0,Z2 FHD
 #EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
 https://obevcimanyd179249207.thapcam.link/live/Z2FHD/chunklist.m3u8#|Referer=https://xem.bdhub.xyz/
@@ -43,6 +45,8 @@ https://obevcimanyd179249207.thapcam.link/live/chaFHD/chunklist.m3u8#|Referer=ht
 #EXTINF:0,Người Núi
 #EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
 https://obevcimanyd179249207.thapcam.link/live/nuiFHD/chunklist.m3u8#|Referer=https://xem.bdhub.xyz/
+#EXTINF:0,Lơ Đao
+https://obevcimanyd179249207.thapcam.link/live/daoFHD/chunklist.m3u8#|Referer=https://xem.bdhub.xyz/
 
 #EXTINF:0,Máy 10 NXT
 #EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
