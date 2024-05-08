@@ -1,6 +1,9 @@
-#EXTINF:0,may1 FHD
+#EXTINF:0,Máy 1 FHD
 #EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
 https://obevcimanyd179249207.thapcam.link/live/may1FHD/chunklist.m3u8#|Referer=https://xem.bdhub.xyz/
+#EXTINF:0,Máy 2 FHD
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
+https://obevcimanyd179249207.thapcam.link/live/may2FHD/chunklist.m3u8#|Referer=https://xem.bdhub.xyz/
 #EXTINF:0,Z3 FHD
 https://obevcimanyd179249207.thapcam.link/live/Z3FHD/chunklist.m3u8#|Referer=https://xem.bdhub.xyz/
 #EXTINF:0,Z2 FHD
