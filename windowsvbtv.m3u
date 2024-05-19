@@ -63,6 +63,9 @@ https://obevcimanyd179249207.thapcam.link/live/lungFHD/playlist.m3u8#|Referer=ht
 #EXTINF:0,Người Cast
 #EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
 https://obevcimanyd179249207.thapcam.link/live/catFHD/chunklist.m3u8#|Referer=https://xem.bdhub.xyz/
+#EXTINF:0,Người báo
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
+https://obevcimanyd179249207.thapcam.link/live/baoFHD/chunklist.m3u8#|Referer=https://xem.bdhub.xyz/
 
 #EXTINF:0,Máy 10 NXT
 #EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
