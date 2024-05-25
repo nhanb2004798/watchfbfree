@@ -63,7 +63,7 @@ https://obevcimanyd179249207.thapcam.link/live/lungFHD/playlist.m3u8#|Referer=ht
 #EXTINF:0,Người Cast
 #EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
 https://obevcimanyd179249207.thapcam.link/live/catFHD/chunklist.m3u8#|Referer=https://xem.bdhub.xyz/
-#EXTINF:0,Người báo
+#EXTINF:0,Người Báo
 #EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
 https://obevcimanyd179249207.thapcam.link/live/baoFHD/chunklist.m3u8#|Referer=https://xem.bdhub.xyz/
 
@@ -76,3 +76,6 @@ https://obevcimanyd179314182.thapcam.link/live/may11/chunklist.m3u8#|Referer=htt
 #EXTINF:0,Máy 6
 #EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
 https://obevcimanyd179314182.thapcam.link/live/may6/chunklist.m3u8#|Referer=https://xem.bdhub.xyz/
+#EXTINF:0,Máy 8
+#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
+https://obevcimanyd179314182.thapcam.link/live/may8/chunklist.m3u8#|Referer=https://xem.bdhub.xyz/
