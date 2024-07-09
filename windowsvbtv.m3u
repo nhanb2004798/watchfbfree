@@ -1,13 +1,7 @@
 #EXTINF:0,Máy 1 FHD
 #EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
-https://obevcimanyd179249207.thapcam.link/live/may1FHD/chunklist.m3u8#|Referer=https://xem.bdhub.xyz/
-#EXTINF:0,Máy 1 FHD 01
-#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
 https://obevcimanyd179569584.thapcam.link/rW4o0eTRZ0yn9bRSZaQ20w/Fv2lucGIbhPi2caWYvF5Lg/1719471836338/live/may1FHD/chunklist.m3u8#|Referer=https://xem.bdhub.xyz/
 #EXTINF:0,Máy 2 FHD
-#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
-https://obevcimanyd179249207.thapcam.link/live/may2FHD/chunklist.m3u8#|Referer=https://xem.bdhub.xyz/
-#EXTINF:0,Máy 2 FHD 01
 #EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
 https://obevcimanyd179569584.thapcam.link/k2BfMfQK-U4Q-x-Z1EzC-Q/Fv2lucGIbhPi2caWYvF5Lg/1718485376908/live/may2FHD/chunklist.m3u8#|Referer=https://xem.bdhub.xyz/
 #EXTINF:0,Máy 3 FHD
@@ -44,7 +38,7 @@ https://obevcimanyd179249207.thapcam.link/live/xienFHD/chunklist.m3u8#|Referer=h
 https://obevcimanyd179249207.thapcam.link/live/momFHD/chunklist.m3u8#|Referer=https://xem.bdhub.xyz/
 #EXTINF:0,Người Cún
 #EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
-https://obevcimanyd179249207.thapcam.link/live/cunFHD/chunklist.m3u8#|Referer=https://xem.bdhub.xyz/
+https://obevcimanyd179569584.thapcam.link/1VHPZJtzS5OVGLbyi3v3fw/Fv2lucGIbhPi2caWYvF5Lg/1720549341051/live/cunFHD/chunklist.m3u8|Referer=https://xem.bdhub.xyz/
 #EXTINF:0,Người Lông
 #EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
 https://obevcimanyd179249207.thapcam.link/live/longFHD/chunklist.m3u8#|Referer=https://xem.bdhub.xyz/
@@ -52,9 +46,6 @@ https://obevcimanyd179249207.thapcam.link/live/longFHD/chunklist.m3u8#|Referer=h
 #EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
 https://obevcimanyd179249207.thapcam.link/live/oldFHD/chunklist.m3u8#|Referer=https://xem.bdhub.xyz/
 #EXTINF:0,Bún Chả
-#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
-https://obevcimanyd179249207.thapcam.link/live/chaFHD/chunklist.m3u8#|Referer=https://xem.bdhub.xyz/
-#EXTINF:0,Bún Chả 01
 #EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
 https://obevcimanyd179569584.thapcam.link/X0zBmMIFpy9FCLE0uNnbgg/Fv2lucGIbhPi2caWYvF5Lg/1718699690500/live/chaFHD/chunklist.m3u8#|Referer=https://xem.bdhub.xyz/
 #EXTINF:0,Người Núi
@@ -64,9 +55,6 @@ https://obevcimanyd179249207.thapcam.link/live/nuiFHD/chunklist.m3u8#|Referer=ht
 #EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
 https://obevcimanyd179249207.thapcam.link/live/daoFHD/chunklist.m3u8#|Referer=https://xem.bdhub.xyz/
 #EXTINF:0,Trâu Gác Bếp
-#EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
-https://obevcimanyd179249207.thapcam.link/live/trauFHD/chunklist.m3u8#|Referer=https://xem.bdhub.xyz/
-#EXTINF:0,Trâu Gác Bếp 01
 #EXTVLCOPT:http-referrer=https://xem.bdhub.xyz
 https://obevcimanyd179569584.thapcam.link/WgerhS89MnFPKZVLhNArPg/Fv2lucGIbhPi2caWYvF5Lg/1718485739241/live/trauFHD/chunklist.m3u8#|Referer=https://xem.bdhub.xyz/
 #EXTINF:0,Tai Lung
