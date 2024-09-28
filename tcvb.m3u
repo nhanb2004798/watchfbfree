@@ -1,52 +1,74 @@
-#EXTINF:0 tvg-id="may1fhd01",Máy 1 FHD
-https://obevcimanyd179569584.thapcam.link/rW4o0eTRZ0yn9bRSZaQ20w/Fv2lucGIbhPi2caWYvF5Lg/1719471836338/live/may1FHD/chunklist.m3u8#|Referer=https://t.fdcdn.xyz
-#EXTINF:0 tvg-id="may2fhd01",Máy 2 FHD
+#EXTINF:0 tvg-id="may1fhd",Máy 1 FHD
+https://vb90xltcvg-secure.nsnd.live/6bhv4lDqh6_GkMa0WWZ4iA/a75e9b78c79480f30c7ea83b12c71e42/1727553341/live/_definst_/stream_1_1bda7@may1FHD/chunklist.m3u8#|Referer=https://t.fdcdn.xyz
+
+#EXTINF:0 tvg-id="may2fhd",Máy 2 FHD
 https://obevcimanyd179569584.thapcam.link/k2BfMfQK-U4Q-x-Z1EzC-Q/Fv2lucGIbhPi2caWYvF5Lg/1718485376908/live/may2FHD/chunklist.m3u8#|Referer=https://t.fdcdn.xyz
+
 #EXTINF:0 tvg-id="may3fhd",Máy 3 FHD
-https://obevcimanyd179569584.thapcam.link/NHR4m7Ek_v9yigx2PrbGhA/Fv2lucGIbhPi2caWYvF5Lg/1723917156284/live/may3FHD/chunklist.m3u8#|Referer=https://t.fdcdn.xyz
+https://vb90xltcvg-secure.nsnd.live/BoiyR9cyRMsTGT1UwmyAzw/134f6a1c41770169e638f6127af8a455/1727555521/live/_definst_/stream_1_1bda7@may3FHD/chunklist.m3u8#|Referer=https://t.fdcdn.xyz
+
 #EXTINF:0 tvg-id="z3fhd",Z3 FHD
 https://obevcimanyd179569584.thapcam.link/xYTeAroRPufLXBLUspUk2g/Fv2lucGIbhPi2caWYvF5Lg/1725132864453/live/Z3FHD/chunklist.m3u8#|Referer=https://t.fdcdn.xyz
+
 #EXTINF:0 tvg-id="z2fhd",Z2 FHD
 https://obevcimanyd179569584.thapcam.link/iC5mu0mdtzcmJlWLP2HNWQ/Fv2lucGIbhPi2caWYvF5Lg/1724520348139/live/Z2FHD/chunklist.m3u8#|Referer=https://t.fdcdn.xyz
+
 #EXTINF:0 tvg-id="z1fhd",Z1 FHD
-https://obevcimanyd179569584.thapcam.link/c7uz0HXsfZkHOG2o71BIHw/Fv2lucGIbhPi2caWYvF5Lg/1721081172439/live/Z1FHD/chunklist.m3u8#|Referer=https://t.fdcdn.xyz
-#EXTINF:0 tvg-id="z1fhd1",Z1 FHD 01
-https://obevcimanyd179569584.thapcam.link/ffAGbNCy00iXgPHexxoV0Q/Fv2lucGIbhPi2caWYvF5Lg/1722505037097/live/Z1FHD/chunklist.m3u8#|Referer=https://t.fdcdn.xyz
+https://vb90xltcvg-secure.nsnd.live/oEu9tbU1dj970BTKjfBEpg/bf44ba621235a4936d4c6ae6054d551e/1727556627/live/_definst_/stream_1_1bda7@Z1FHD/chunklist.m3u8#|Referer=https://t.fdcdn.xyz
+
 #EXTINF:0 tvg-id="nguoimom",Người Móm
 https://obevcimanyd179569584.thapcam.link/y8Gb1AQ7CnmWI7P4zoq2zw/Fv2lucGIbhPi2caWYvF5Lg/1725223869314/live/momFHD/chunklist.m3u8#|Referer=https://t.fdcdn.xyz
+
 #EXTINF:0 tvg-id="nguoica",Người Cá
-https://obevcimanyd179569584.thapcam.link/LP8qDIyjPb_xDHhI5n2jag/Fv2lucGIbhPi2caWYvF5Lg/1725224090169/live/caFHD/chunklist.m3u8#|Referer=https://t.fdcdn.xyz
+https://vb90xltcvg-secure.nsnd.live/FlOcTVjXrbed7-wWhi6ZJw/cfb1d1e3eb5f383163a349652a8f21a5/1727556349/live/_definst_/stream_1_1bda7@caFHD/chunklist.m3u8#|Referer=https://t.fdcdn.xyz
+
 #EXTINF:0 tvg-id="nguoisoi",Người Sói
-https://vb90xltcvg-secure.nsnd.live/UQhIWESy0vYc0h8KsSbUSA/522fa8a1e6086eda6ae886e796133e2d/1727512095/live/_definst_/stream_1_1bda7@soiFHD/chunklist.m3u8#|Referer=https://t.fdcdn.xyz
+https://vb90xltcvg-secure.nsnd.live/k8XdCuE3OzqKUnncWLy5Ug/522fa8a1e6086eda6ae886e796133e2d/1727556717/live/_definst_/stream_1_1bda7@soiFHD/chunklist.m3u8#|Referer=https://t.fdcdn.xyz
+
 #EXTINF:0 tvg-id="mytom",Mỳ Tôm
-https://obevcimanyd179569584.thapcam.link/xepv1Pi42-nfVqK493kupA/Fv2lucGIbhPi2caWYvF5Lg/1721076505241/live/myFHD/chunklist.m3u8#|Referer=https://t.fdcdn.xyz
+https://vb90xltcvg-secure.nsnd.live/ZyC0scEBGeCdrAeL4ChirQ/37c56eb4aaf958eda25bed5c53705fc2/1727557678/live/_definst_/stream_1_1bda7@myFHD/chunklist.m3u8#|Referer=https://t.fdcdn.xyz
+
 #EXTINF:0 tvg-id="phobo",Phở Bò
-https://obevcimanyd179569584.thapcam.link/-Dv2sDSK1J5f4rPkv1Q2IQ/Fv2lucGIbhPi2caWYvF5Lg/1721575043126/live/phoFHD/chunklist.m3u8#|Referer=https://t.fdcdn.xyz
+https://vb90xltcvg-secure.nsnd.live/5_eWhd0o5Ej66TzIMSzycw/4f331a41223542c17c4032aeaac138d5/1727557418/live/_definst_/stream_1_1bda7@phoFHD/chunklist.m3u8#|Referer=https://t.fdcdn.xyz
+
 #EXTINF:0 tvg-id="thitxien",Thịt Xiên
 https://obevcimanyd179569584.thapcam.link/dJGlOi29sFzVfc8xU32FIA/Fv2lucGIbhPi2caWYvF5Lg/1725224175891/live/xienFHD/chunklist.m3u8#|Referer=https://t.fdcdn.xyz
+
 #EXTINF:0 tvg-id="nguoilong",Người Lông
-https://obevcimanyd179569584.thapcam.link/Es0maUYlZMuc5dhfH8hvAg/Fv2lucGIbhPi2caWYvF5Lg/1725224208809/live/longFHD/chunklist.m3u8#|Referer=https://t.fdcdn.xyz
-#EXTINF:0 tvg-id="nguoigia",Người Già 1
-https://vb90xltcvg-secure.nsnd.live/JZsuhlQX5dYmpF1QuEGWqQ/e56ce8a755cda33e7f050da0b700d013/1727510548/live/_definst_/stream_1_1bda7@oldFHD/chunklist.m3u8#|Referer=https://t.fdcdn.xyz
+https://vb90xltcvg-secure.nsnd.live/CjbsEdr-f-6c8pj6fNynzg/3eccd6392218a7eb1e58eb18b5b4757c/1727557142/live/_definst_/stream_1_1bda7@longFHD/chunklist.m3u8#|Referer=https://t.fdcdn.xyz
+
+#EXTINF:0 tvg-id="nguoigia",Người Già
+https://vb90xltcvg-secure.nsnd.live/V6LJcsjuRtws_c4t7nDIsg/e56ce8a755cda33e7f050da0b700d013/1727556967/live/_definst_/stream_1_1bda7@oldFHD/chunklist.m3u8#|Referer=https://t.fdcdn.xyz
+
 #EXTINF:0 tvg-id="buncha1",Bún Chả 1
 https://obevcimanyd179569584.thapcam.link/OtqSnchCem1u7lS0F2fP4g/Fv2lucGIbhPi2caWYvF5Lg/1725954766655/live/chaFHD/chunklist.m3u8#|Referer=https://t.fdcdn.xyz
+
 #EXTINF:0 tvg-id="buncha2",Bún Chả 2
 https://vb90xltcvg-secure.nsnd.live/JmFDbnIk5nYeFRzflLLFvA/c30c788ad0707c1b9d75449bd5366f27/1727509894/live/_definst_/stream_1_1bda7@chaFHD/chunklist.m3u8#|Referer=https://t.fdcdn.xyz
+
 #EXTINF:0 tvg-id="lodao",Lơ Đao
-https://obevcimanyd179569584.thapcam.link/hNtVrOw-cR6suhQ0l_vNDQ/Fv2lucGIbhPi2caWYvF5Lg/1725228141044/live/daoFHD/chunklist.m3u8#|Referer=https://t.fdcdn.xyz
+https://vb90xltcvg-secure.nsnd.live/ytOTFQjgmJSFTh6_Iwb_Dw/67544df98adad7c165ac45843eec88d6/1727556892/live/_definst_/stream_1_1bda7@daoFHD/chunklist.m3u8#|Referer=https://t.fdcdn.xyz
+
 #EXTINF:0 tvg-id="traugacbep01",Trâu Gác Bếp
-https://obevcimanyd179569584.thapcam.link/WgerhS89MnFPKZVLhNArPg/Fv2lucGIbhPi2caWYvF5Lg/1718485739241/live/trauFHD/chunklist.m3u8#|Referer=https://t.fdcdn.xyz
+https://vb90xltcvg-secure.nsnd.live/wrggBUjBeWV2BRE0ZcuG4g/847878fb5be3ca4c0539d0883bc5274a/1727557311/live/_definst_/stream_1_1bda7@trauFHD/chunklist.m3u8#|Referer=https://t.fdcdn.xyz
+
 #EXTINF:0 tvg-id="tailung",Tai Lung
-https://obevcimanyd179569584.thapcam.link/Chmu6DHGtyp7iIC-pN7q_Q/Fv2lucGIbhPi2caWYvF5Lg/1725232149711/live/lungFHD/chunklist.m3u8#|Referer=https://t.fdcdn.xyz
+https://vb90xltcvg-secure.nsnd.live/c3dcP1b7d5-gzOaDEUko9g/883ca40e5184f080c92fcfdbaf37405d/1727557008/live/_definst_/stream_1_1bda7@lungFHD/chunklist.m3u8#|Referer=https://t.fdcdn.xyz
+
 #EXTINF:0 tvg-id="nguoicast",Người Cast
 https://vb90xltcvg-secure.nsnd.live/wYsJZsroIXs5Mva5qCLrJg/444a075c42c2d0e744c4509423415468/1727512009/live/_definst_/stream_1_1bda7@catFHD/chunklist.m3u8#|Referer=https://t.fdcdn.xyz
+
 #EXTINF:0 tvg-id="nguoibao",Người Báo
 https://obevcimanyd179569584.thapcam.link/NXL7vGXl3Ug7rG5sCEVdiQ/Fv2lucGIbhPi2caWYvF5Lg/1725224029245/live/baoFHD/chunklist.m3u8#|Referer=https://t.fdcdn.xyz
+
 #EXTINF:0 tvg-id="banhcuon",Bánh Cuốn
 https://obevcimanyd179569584.thapcam.link/Tr1_dOqq4Ds8qifM9a932g/Fv2lucGIbhPi2caWYvF5Lg/1719382985291/live/cuonFHD/chunklist.m3u8#|Referer=https://t.fdcdn.xyz
+
 #EXTINF:0 tvg-id="meou",Mèo Ú
 https://obevcimanyd179569584.thapcam.link/53Ss80rz7T3H22_spC_p-Q/Fv2lucGIbhPi2caWYvF5Lg/1723411848516/live/meoFHD/chunklist.m3u8#|Referer=https://t.fdcdn.xyz
+
 #EXTINF:0 tvg-id="nguoicun",Người Cún
-https://obevcimanyd179569584.thapcam.link/j8gJC7M4njq256GZi7_uzg/Fv2lucGIbhPi2caWYvF5Lg/1725231855001/live/cunFHD/chunklist.m3u8#|Referer=https://t.fdcdn.xyz
+https://vb90xltcvg-secure.nsnd.live/xm6Kj8B6D7azH8EC4aJMlA/317070d9a306b71c37e6ea9e37f2842f/1727553508/live/_definst_/stream_1_1bda7@cunFHD/chunklist.m3u8#|Referer=https://t.fdcdn.xyz
+
 #EXTINF:0 tvg-id="anui",A Núi
-https://obevcimanyd179569584.thapcam.link/lFhsx2eqA-gjx5PlkNlWLQ/Fv2lucGIbhPi2caWYvF5Lg/1725489097014/live/nuiFHD/chunklist.m3u8#|Referer=https://t.fdcdn.xyz
+https://vb90xltcvg-secure.nsnd.live/YvyWg39OgJChYydoLzkjsQ/adb8de5045254f4388ff92b08aeba831/1727557098/live/_definst_/stream_1_1bda7@nuiFHD/chunklist.m3u8#|Referer=https://t.fdcdn.xyz
