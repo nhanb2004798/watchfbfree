@@ -1,0 +1,7 @@
+Available ✅ 
+Ubuntu: 20.04, 22.04, 24.04
+Debian: 19, 20
+Fedora: 39, 40
+Centos: 9
+curl -O https://raw.githubusercontent.com/vinatechpro/titan-install/main/docker.sh && chmod u+x docker.sh && ./docker.sh
+Tốt nhất nên sử dụng Ubuntu 22.04 - Bạn chỉ cần dán lệnh vào terminal >> dán mã identity code >> Enter và chờ khoảng 3 phút sẽ thấy 5 node trên Dashboard của bạn.
