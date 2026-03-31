@@ -10,12 +10,12 @@ jobs:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v4 # Đã nâng cấp từ v3 lên v4
+        uses: actions/checkout@v4 # Bản v4 hết lỗi Node.js
 
       - name: Setup Python
-        uses: actions/setup-python@v5 # Đã nâng cấp từ v4 lên v5
+        uses: actions/setup-python@v5 # Bản v5 hết lỗi Node.js
         with:
-          python-version: '3.11' # Dùng bản Python mới hơn cho ổn định
+          python-version: '3.11'
 
       - name: Install Libs
         run: pip install requests beautifulsoup4
@@ -27,5 +27,6 @@ jobs:
         run: |
           git config --local user.email "bot@github.com"
           git config --local user.name "Auto Bot"
+          # Lệnh này cực kỳ quan trọng để robot được quyền ghi đè
           git add watchfrhd.m3u
           git diff --quiet && git diff --staged --quiet || (git commit -m "Auto Update $(date)" && git push)
