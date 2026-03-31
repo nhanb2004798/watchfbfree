@@ -2,20 +2,20 @@ name: Update Hoa Dao TV M3U
 
 on:
   schedule:
-    - cron: '*/20 * * * *' # Chạy mỗi 20 phút
-  workflow_dispatch: # Nút bấm chạy tay
+    - cron: '*/20 * * * *'
+  workflow_dispatch:
 
 jobs:
   build:
     runs-on: ubuntu-latest
     steps:
       - name: Checkout
-        uses: actions/checkout@v3
+        uses: actions/checkout@v4 # Đã nâng cấp từ v3 lên v4
 
       - name: Setup Python
-        uses: actions/setup-python@v4
+        uses: actions/setup-python@v5 # Đã nâng cấp từ v4 lên v5
         with:
-          python-version: '3.9'
+          python-version: '3.11' # Dùng bản Python mới hơn cho ổn định
 
       - name: Install Libs
         run: pip install requests beautifulsoup4
