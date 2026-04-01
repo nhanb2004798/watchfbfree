@@ -1,19 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp Brazil vs Croatia - BLV CHIM NHỎ 
-#EXTVLCOPT:http-referrer=https://hoadaotv.info/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://flv.cauthuvideocdn.com/live/link-12.flv
-
-#EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp NXT vs NXT - BLV PHÁO 
-#EXTVLCOPT:http-referrer=https://hoadaotv.info/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://flv.cauthuvideocdn.com/live/link-02.flv
-
-#EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp Mexico vs Belgium - BLV VĂN CHUẨN 
-#EXTVLCOPT:http-referrer=https://hoadaotv.info/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://flv.cauthuvideocdn.com/live/link-11.flv
-
 #EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp Iraq vs Bolivia - BLV A TAI 
 #EXTVLCOPT:http-referrer=https://hoadaotv.info/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
