@@ -2,7 +2,7 @@
 #EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp Al Ittihad Club vs Al Hazem - BLV CHIM NHỎ 
 #EXTVLCOPT:http-referrer=https://hoadaotv.info/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://flv.cauthuvideocdn.com/live/link-12.flv
+https://live10.footballvideocdn20xx.info/live/blv-chim-nho.flv
 
 #EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp Al Nassr FC vs Al Najma(KSA) - BLV CHÁO QUẨY 
 #EXTVLCOPT:http-referrer=https://hoadaotv.info/
@@ -63,6 +63,11 @@ https://live10.footballvideocdn20xx.info/live/blv-a-map.flv
 #EXTVLCOPT:http-referrer=https://hoadaotv.info/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://live10.footballvideocdn20xx.info/live/blv-dylan.flv
+
+#EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp SC Freiburg vs FC Bayern Munich - BLV CHÁO QUẨY 
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://live10.footballvideocdn20xx.info/live/blv-chao-quay.flv
 
 #EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp Stade Brestois 29 vs Stade Rennais FC - BLV TÁO 
 #EXTVLCOPT:http-referrer=https://hoadaotv.info/
