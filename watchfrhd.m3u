@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp Khánh Hòa vs Công An TP HCM - BLV A MẬP 
+#EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp Long An Nữ  vs Thanh Hóa Nữ - BLV CHIM NHỎ 
 #EXTVLCOPT:http-referrer=https://hoadaotv.info/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://live10.footballvideocdn20xx.info/live/blv-a-map.flv
+https://live10.footballvideocdn20xx.info/live/blv-chim-nho.flv
 
 #EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp BRO  vs KRX - BLV DƯA HẤU 
 #EXTVLCOPT:http-referrer=https://hoadaotv.info/
@@ -13,11 +13,6 @@ https://live10.footballvideocdn20xx.info/live/blv-dua-hau.flv
 #EXTVLCOPT:http-referrer=https://hoadaotv.info/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://live10.footballvideocdn20xx.info/live/blv-dylan.flv
-
-#EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp Long An Nữ  vs Thanh Hóa Nữ - BLV CHIM NHỎ 
-#EXTVLCOPT:http-referrer=https://hoadaotv.info/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://live10.footballvideocdn20xx.info/live/blv-chim-nho.flv
 
 #EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp Biên Phòng MB vs TP Hồ Chí Minh - BLV MÈO BÉO 
 #EXTVLCOPT:http-referrer=https://hoadaotv.info/
