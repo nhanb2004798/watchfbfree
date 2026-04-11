@@ -169,3 +169,8 @@ https://live10.footballvideocdn20xx.info/live/blv-van-chuan.flv
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://live10.footballvideocdn20xx.info/live/blv-tao.flv
 
+#EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp Brunswick City vs Melbourne Knights - BLV PHÁO 
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://live10.footballvideocdn20xx.info/live/blv-phao.flv
+
