@@ -1,14 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp CA Osasuna vs Real Betis - BLV A TAI 
-#EXTVLCOPT:http-referrer=https://hoadaotv.info/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://live10.footballvideocdn20xx.info/live/blv-a-tai.flv
-
-#EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp Hanoi FC vs Hong Linh Ha Tinh - BLV Dưa Hấu 
-#EXTVLCOPT:http-referrer=https://hoadaotv.info/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://pull.globalcdnnetworksc2030.info/str01/blv-dua-hau.flv
-
 #EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp Đà Nẵng  vs TP Hồ Chí Minh - BLV Mèo Béo 
 #EXTVLCOPT:http-referrer=https://hoadaotv.info/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -148,6 +138,16 @@ https://pull.globalcdnnetworksc2030.info/str01/blv-lo-a-ton.flv
 #EXTVLCOPT:http-referrer=https://hoadaotv.info/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://pull.globalcdnnetworksc2030.info/str01/blv-dylan.flv
+
+#EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp Club Atlético Lanús vs Banfield - BLV Văn Chuẩn 
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pull.globalcdnnetworksc2030.info/str01/blv-van-chuan.flv
+
+#EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp South Island United FC vs Tahiti United FC - BLV Dưa Hấu 
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pull.globalcdnnetworksc2030.info/str01/blv-dua-hau.flv
 
 #EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp Tractor S.C. vs Shabab Al Ahli - BLV NEYMAR 
 #EXTVLCOPT:http-referrer=https://hoadaotv.info/
