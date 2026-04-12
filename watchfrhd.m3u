@@ -1,178 +1,188 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp Hà Nội Nữ  vs Ninh Bình Nữ - BLV MÈO BÉO 
+#EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp Thể Công Tân Cảng vs Công An TP HCM - BLV Cháo Quẩy 
 #EXTVLCOPT:http-referrer=https://hoadaotv.info/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://live10.footballvideocdn20xx.info/live/blv-meo-beo.flv
+https://pull.globalcdnnetworksc2030.info/str01/blv-chao-quay.flv
 
-#EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp Hisamitsu Springs W vs Gunma Bank Green Wings W - BLV PHÁO 
+#EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp BFX vs DNS - BLV Dylan 
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pull.globalcdnnetworksc2030.info/str01/blv-dylan.flv
+
+#EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp Perth Glory vs Macarthur FC - BLV Văn Chuẩn 
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pull.globalcdnnetworksc2030.info/str01/blv-van-chuan.flv
+
+#EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp BRO vs KT - BLV Dưa Hấu 
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pull.globalcdnnetworksc2030.info/str01/blv-dua-hau.flv
+
+#EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp Viettinbank Nữ  vs Thanh Hóa Nữ - BLV Chim Nhỏ 
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pull.globalcdnnetworksc2030.info/str01/blv-chim-nho.flv
+
+#EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp Becamex Ho Chi Minh City vs Ninh Binh FC - BLV Pháo 
 #EXTVLCOPT:http-referrer=https://hoadaotv.info/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://pull.globalcdnnetworksc2030.info/str01/blv-phao.flv
 
-#EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp Thể Công Tân Cảng vs Công An TP HCM - BLV CHÁO QUẨY 
+#EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp PVF CAND vs Cong An Ha Noi FC - BLV A Mập 
 #EXTVLCOPT:http-referrer=https://hoadaotv.info/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://live10.footballvideocdn20xx.info/live/blv-chao-quay.flv
-
-#EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp BFX vs DNS - BLV DYLAN 
-#EXTVLCOPT:http-referrer=https://hoadaotv.info/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://live10.footballvideocdn20xx.info/live/blv-dylan.flv
-
-#EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp Perth Glory vs Macarthur FC - BLV VĂN CHUẨN 
-#EXTVLCOPT:http-referrer=https://hoadaotv.info/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://live10.footballvideocdn20xx.info/live/blv-van-chuan.flv
-
-#EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp BRO vs KT - BLV DƯA HẤU 
-#EXTVLCOPT:http-referrer=https://hoadaotv.info/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://live10.footballvideocdn20xx.info/live/blv-dua-hau.flv
-
-#EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp Viettinbank Nữ  vs Thanh Hóa Nữ - BLV CHIM NHỎ 
-#EXTVLCOPT:http-referrer=https://hoadaotv.info/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://live10.footballvideocdn20xx.info/live/blv-chim-nho.flv
-
-#EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp Becamex Ho Chi Minh City vs Ninh Binh FC - BLV PHÁO 
-#EXTVLCOPT:http-referrer=https://hoadaotv.info/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://live10.footballvideocdn20xx.info/live/blv-phao.flv
-
-#EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp PVF CAND vs Cong An Ha Noi FC - BLV A MẬP 
-#EXTVLCOPT:http-referrer=https://hoadaotv.info/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://live10.footballvideocdn20xx.info/live/blv-a-map.flv
+https://pull.globalcdnnetworksc2030.info/str01/blv-a-map.flv
 
 #EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp CA Osasuna vs Real Betis - BLV A TAI 
 #EXTVLCOPT:http-referrer=https://hoadaotv.info/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://live10.footballvideocdn20xx.info/live/blv-a-tai.flv
 
-#EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp Hanoi FC vs Hong Linh Ha Tinh - BLV DƯA HẤU 
+#EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp Hanoi FC vs Hong Linh Ha Tinh - BLV Dưa Hấu 
 #EXTVLCOPT:http-referrer=https://hoadaotv.info/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://live10.footballvideocdn20xx.info/live/blv-dua-hau.flv
+https://pull.globalcdnnetworksc2030.info/str01/blv-dua-hau.flv
 
-#EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp Đà Nẵng  vs TP Hồ Chí Minh - BLV MÈO BÉO 
+#EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp Đà Nẵng  vs TP Hồ Chí Minh - BLV Mèo Béo 
 #EXTVLCOPT:http-referrer=https://hoadaotv.info/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://live10.footballvideocdn20xx.info/live/blv-meo-beo.flv
+https://pull.globalcdnnetworksc2030.info/str01/blv-meo-beo.flv
 
-#EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp Parma vs Napoli - BLV CHIM NHỎ 
+#EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp Parma vs Napoli - BLV Chim Nhỏ 
 #EXTVLCOPT:http-referrer=https://hoadaotv.info/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://live10.footballvideocdn20xx.info/live/blv-chim-nho.flv
+https://pull.globalcdnnetworksc2030.info/str01/blv-chim-nho.flv
 
-#EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp Sunderland vs Tottenham Hotspur - BLV PHÁO 
+#EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp Sunderland vs Tottenham Hotspur - BLV Pháo 
 #EXTVLCOPT:http-referrer=https://hoadaotv.info/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://live10.footballvideocdn20xx.info/live/blv-phao.flv
+https://pull.globalcdnnetworksc2030.info/str01/blv-phao.flv
 
 #EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp Nottingham Forest vs Aston Villa - BLV NEYMAR 
 #EXTVLCOPT:http-referrer=https://hoadaotv.info/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://live10.footballvideocdn20xx.info/live/blv-neymar.flv
 
-#EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp Crystal Palace vs Newcastle United - BLV CHÁO QUẨY 
+#EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp Crystal Palace vs Newcastle United - BLV Cháo Quẩy 
 #EXTVLCOPT:http-referrer=https://hoadaotv.info/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://live10.footballvideocdn20xx.info/live/blv-chao-quay.flv
+https://pull.globalcdnnetworksc2030.info/str01/blv-chao-quay.flv
 
 #EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp RCD Mallorca vs Rayo Vallecano - BLV A TAI 
 #EXTVLCOPT:http-referrer=https://hoadaotv.info/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://live10.footballvideocdn20xx.info/live/blv-a-tai.flv
 
-#EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp Chelsea vs Manchester City - BLV DYLAN 
+#EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp Chelsea vs Manchester City - BLV Dylan 
 #EXTVLCOPT:http-referrer=https://hoadaotv.info/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://live10.footballvideocdn20xx.info/live/blv-dylan.flv
+https://pull.globalcdnnetworksc2030.info/str01/blv-dylan.flv
 
-#EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp Chelsea vs Manchester City - BLV A MẬP 
+#EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp Chelsea vs Manchester City - BLV A Mập 
 #EXTVLCOPT:http-referrer=https://hoadaotv.info/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://live10.footballvideocdn20xx.info/live/blv-a-map.flv
+https://pull.globalcdnnetworksc2030.info/str01/blv-a-map.flv
 
-#EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp RC Celta vs Real Oviedo - BLV CHIM NHỎ 
+#EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp RC Celta vs Real Oviedo - BLV Chim Nhỏ 
 #EXTVLCOPT:http-referrer=https://hoadaotv.info/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://live10.footballvideocdn20xx.info/live/blv-chim-nho.flv
+https://pull.globalcdnnetworksc2030.info/str01/blv-chim-nho.flv
 
-#EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp 1. FSV Mainz 05 vs SC Freiburg - BLV MÈO BÉO 
+#EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp 1. FSV Mainz 05 vs SC Freiburg - BLV Mèo Béo 
 #EXTVLCOPT:http-referrer=https://hoadaotv.info/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://live10.footballvideocdn20xx.info/live/blv-meo-beo.flv
+https://pull.globalcdnnetworksc2030.info/str01/blv-meo-beo.flv
 
-#EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp Lyon vs Lorient - BLV CHÁO QUẨY 
+#EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp Lyon vs Lorient - BLV Cháo Quẩy 
 #EXTVLCOPT:http-referrer=https://hoadaotv.info/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://live10.footballvideocdn20xx.info/live/blv-chao-quay.flv
+https://pull.globalcdnnetworksc2030.info/str01/blv-chao-quay.flv
 
-#EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp Como vs Inter Milan - BLV DYLAN 
+#EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp Como vs Inter Milan - BLV Dylan 
 #EXTVLCOPT:http-referrer=https://hoadaotv.info/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://live10.footballvideocdn20xx.info/live/blv-dylan.flv
+https://pull.globalcdnnetworksc2030.info/str01/blv-dylan.flv
 
-#EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp Athletic Club vs Villarreal CF - BLV A MẬP 
+#EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp Athletic Club vs Villarreal CF - BLV A Mập 
 #EXTVLCOPT:http-referrer=https://hoadaotv.info/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://live10.footballvideocdn20xx.info/live/blv-a-map.flv
+https://pull.globalcdnnetworksc2030.info/str01/blv-a-map.flv
 
 #EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp Sport Club Corinthians Paulista vs Palmeiras - BLV A TAI 
 #EXTVLCOPT:http-referrer=https://hoadaotv.info/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://live10.footballvideocdn20xx.info/live/blv-a-tai.flv
 
-#EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp Boston Celtics vs Orlando Magic - BLV DƯA HẤU 
+#EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp Boston Celtics vs Orlando Magic - BLV Dưa Hấu 
 #EXTVLCOPT:http-referrer=https://hoadaotv.info/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://live10.footballvideocdn20xx.info/live/blv-dua-hau.flv
+https://pull.globalcdnnetworksc2030.info/str01/blv-dua-hau.flv
 
-#EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp Los Angeles Lakers vs Utah Jazz - BLV VĂN CHUẨN 
+#EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp Los Angeles Lakers vs Utah Jazz - BLV Văn Chuẩn 
 #EXTVLCOPT:http-referrer=https://hoadaotv.info/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://live10.footballvideocdn20xx.info/live/blv-van-chuan.flv
+https://pull.globalcdnnetworksc2030.info/str01/blv-van-chuan.flv
 
-#EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp Internacional de Bogota vs Alianza Fútbol Club - BLV TÁO 
+#EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp Internacional de Bogota vs Alianza Fútbol Club - BLV Táo 
 #EXTVLCOPT:http-referrer=https://hoadaotv.info/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://live10.footballvideocdn20xx.info/live/blv-tao.flv
+https://pull.globalcdnnetworksc2030.info/str01/blv-tao.flv
 
-#EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp Brunswick City vs Melbourne Knights - BLV PHÁO 
+#EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp Lào Cai Nữ  vs Long An Nữ - BLV Pháo 
 #EXTVLCOPT:http-referrer=https://hoadaotv.info/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://live10.footballvideocdn20xx.info/live/blv-phao.flv
+https://pull.globalcdnnetworksc2030.info/str01/blv-phao.flv
 
-#EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp CSKA Sofia vs Levski Sofia - BLV CHÁO QUẨY 
+#EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp Hà Nội vs Biên Phòng  - BLV Chim Nhỏ 
 #EXTVLCOPT:http-referrer=https://hoadaotv.info/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://live10.footballvideocdn20xx.info/live/blv-chao-quay.flv
+https://pull.globalcdnnetworksc2030.info/str01/blv-chim-nho.flv
 
-#EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp Fakel Voronezh vs Rodina Moscow - BLV DYLAN 
+#EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp Brunswick City vs Melbourne Knights - BLV Pháo 
 #EXTVLCOPT:http-referrer=https://hoadaotv.info/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://live10.footballvideocdn20xx.info/live/blv-dylan.flv
+https://pull.globalcdnnetworksc2030.info/str01/blv-phao.flv
 
-#EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp Al Hilal vs Al-Sadd - BLV TÁO 
+#EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp Thông Tin Nữ  vs Hưng yên Nữ - BLV Chim Nhỏ 
 #EXTVLCOPT:http-referrer=https://hoadaotv.info/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://live10.footballvideocdn20xx.info/live/blv-tao.flv
+https://pull.globalcdnnetworksc2030.info/str01/blv-chim-nho.flv
 
-#EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp Fiorentina vs Lazio - BLV MÈO BÉO 
+#EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp Ninh Bình  vs Khánh Hòa - BLV Mèo Béo 
 #EXTVLCOPT:http-referrer=https://hoadaotv.info/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://live10.footballvideocdn20xx.info/live/blv-meo-beo.flv
+https://pull.globalcdnnetworksc2030.info/str01/blv-meo-beo.flv
 
-#EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp Manchester United vs Leeds United - BLV A TÔN 
+#EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp CSKA Sofia vs Levski Sofia - BLV Cháo Quẩy 
 #EXTVLCOPT:http-referrer=https://hoadaotv.info/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://live10.footballvideocdn20xx.info/live/blv-a-ton.flv
+https://pull.globalcdnnetworksc2030.info/str01/blv-chao-quay.flv
 
-#EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp Levante vs Getafe - BLV DYLAN 
+#EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp Fakel Voronezh vs Rodina Moscow - BLV Dylan 
 #EXTVLCOPT:http-referrer=https://hoadaotv.info/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://live10.footballvideocdn20xx.info/live/blv-dylan.flv
+https://pull.globalcdnnetworksc2030.info/str01/blv-dylan.flv
+
+#EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp Al Hilal vs Al-Sadd - BLV Táo 
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pull.globalcdnnetworksc2030.info/str01/blv-tao.flv
+
+#EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp Fiorentina vs Lazio - BLV Mèo Béo 
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pull.globalcdnnetworksc2030.info/str01/blv-meo-beo.flv
+
+#EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp Manchester United vs Leeds United - BLV Lò A Tôn 
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pull.globalcdnnetworksc2030.info/str01/blv-lo-a-ton.flv
+
+#EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp Levante vs Getafe - BLV Dylan 
+#EXTVLCOPT:http-referrer=https://hoadaotv.info/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pull.globalcdnnetworksc2030.info/str01/blv-dylan.flv
 
 #EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp Tractor S.C. vs Shabab Al Ahli - BLV NEYMAR 
 #EXTVLCOPT:http-referrer=https://hoadaotv.info/
