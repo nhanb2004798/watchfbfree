@@ -1,23 +1,18 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp Atletico Madrid vs FC Barcelona - Chim Nhỏ 
+#EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp Liverpool vs Paris Saint Germain - Cháo Quẩy 
 #EXTVLCOPT:http-referrer=https://hoadaotv.info/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://pull.globalcdnnetworksc2030.info/str01/blv-chim-nho.flv
-
-#EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp Sweden Women vs Denmark Women - Táo 
-#EXTVLCOPT:http-referrer=https://hoadaotv.info/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://pull.globalcdnnetworksc2030.info/str01/blv-tao.flv
+https://pull.globalcdnnetworksc2030.info/str01/blv-chao-quay.flv
 
 #EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp Al Ittihad Club vs Al Wahda(UAE) - Dưa Hấu 
 #EXTVLCOPT:http-referrer=https://hoadaotv.info/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://pull.globalcdnnetworksc2030.info/str01/blv-dua-hau.flv
 
-#EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp Liverpool vs Paris Saint Germain - Cháo Quẩy 
+#EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp Atletico Madrid vs FC Barcelona - Chim Nhỏ 
 #EXTVLCOPT:http-referrer=https://hoadaotv.info/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://pull.globalcdnnetworksc2030.info/str01/blv-chao-quay.flv
+https://pull.globalcdnnetworksc2030.info/str01/blv-chim-nho.flv
 
 #EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp Atletico Madrid vs FC Barcelona - NEYMAR 
 #EXTVLCOPT:http-referrer=https://hoadaotv.info/
