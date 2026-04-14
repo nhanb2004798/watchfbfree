@@ -1,8 +1,8 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp Club Atlético Lanús vs Banfield - BLV Văn Chuẩn 
+#EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp RAW  vs RAW  - BLV Pháo 
 #EXTVLCOPT:http-referrer=https://hoadaotv.info/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://pull.globalcdnnetworksc2030.info/str01/blv-van-chuan.flv
+https://pull.globalcdnnetworksc2030.info/str01/blv-phao.flv
 
 #EXTINF:-1 tvg-logo="https://hoadaotv.info/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp South Island United FC vs Tahiti United FC - BLV Dưa Hấu 
 #EXTVLCOPT:http-referrer=https://hoadaotv.info/
