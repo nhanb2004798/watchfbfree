@@ -2,7 +2,7 @@ import requests
 import re
 from bs4 import BeautifulSoup
 
-BASE_URL = "https://hoadaotv.info"
+BASE_URL = "https://hoadao.link"
 HEADERS = {
     "User-Agent": "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/123.0.0.0 Safari/537.36",
     "Referer": BASE_URL
@@ -70,7 +70,7 @@ def get_match_data():
                         title = title_tag.get_text(strip=True).split('|')[0]
 
                 # Lấy ảnh logo (đội nhà/đội khách)
-                logo = "https://hoadaotv.info/favicon.ico"
+                logo = "https://hoadao.link/favicon.ico"
                 img_tags = soup_detail.find_all('img', src=re.compile(r'logo|team'))
                 if img_tags:
                     logo = img_tags[0]['src']
