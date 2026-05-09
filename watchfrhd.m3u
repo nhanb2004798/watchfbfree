@@ -1,33 +1,13 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://hoadao.link/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp Liverpool vs Chelsea - Dylan 
+#EXTINF:-1 tvg-logo="https://hoadao.link/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp Sunderland vs Manchester United - Cháo Quẩy 
 #EXTVLCOPT:http-referrer=https://hoadao.link/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://pull.globalcdnnetworksc2031.info/str01/blv-dylan.flv
-
-#EXTINF:-1 tvg-logo="https://hoadao.link/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp NS vs BRO - Dưa Hấu 
-#EXTVLCOPT:http-referrer=https://hoadao.link/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://pull.globalcdnnetworksc2031.info/str01/blv-dua-hau.flv
+https://pull.globalcdnnetworksc2031.info/str01/blv-chao-quay.flv
 
 #EXTINF:-1 tvg-logo="https://hoadao.link/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp Auger-Aliassime F. vs Navone M. - Người Kiến 
 #EXTVLCOPT:http-referrer=https://hoadao.link/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://pull.globalcdnnetworksc2031.info/str01/blv-nguoi-kien.flv
-
-#EXTINF:-1 tvg-logo="https://hoadao.link/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp CLB Thanh Hoa vs Hanoi FC - Pháo 
-#EXTVLCOPT:http-referrer=https://hoadao.link/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://pull.globalcdnnetworksc2031.info/str01/blv-phao.flv
-
-#EXTINF:-1 tvg-logo="https://hoadao.link/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp Ninh Binh FC vs XM Hai Phong FC - A Tai 
-#EXTVLCOPT:http-referrer=https://hoadao.link/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://pull.globalcdnnetworksc2031.info/str01/blv-gio-tai.flv
-
-#EXTINF:-1 tvg-logo="https://hoadao.link/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp Liverpool vs Chelsea - Fanta 
-#EXTVLCOPT:http-referrer=https://hoadao.link/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://pull.globalcdnnetworksc2031.info/str01/blv-fanta.flv
 
 #EXTINF:-1 tvg-logo="https://hoadao.link/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp Elche vs Deportivo Alavés - Chim Nhỏ 
 #EXTVLCOPT:http-referrer=https://hoadao.link/
@@ -48,11 +28,6 @@ https://pull.globalcdnnetworksc2031.info/str01/blv-van-chuan.flv
 #EXTVLCOPT:http-referrer=https://hoadao.link/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://pull.globalcdnnetworksc2031.info/str01/blv-tao.flv
-
-#EXTINF:-1 tvg-logo="https://hoadao.link/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp Sunderland vs Manchester United - Cháo Quẩy 
-#EXTVLCOPT:http-referrer=https://hoadao.link/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://pull.globalcdnnetworksc2031.info/str01/blv-chao-quay.flv
 
 #EXTINF:-1 tvg-logo="https://hoadao.link/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp Brighton Hove Albion vs Wolverhampton Wanderers - Pháo 
 #EXTVLCOPT:http-referrer=https://hoadao.link/
