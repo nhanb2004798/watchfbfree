@@ -1,9 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://hoadao.link/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp Toronto FC vs Inter Miami CF - Người Kiến 
-#EXTVLCOPT:http-referrer=https://hoadao.link/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://pull.globalcdnnetworksc2031.info/str01/blv-nguoi-kien.flv
-
 #EXTINF:-1 tvg-logo="https://hoadao.link/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp Lecce vs Juventus - A Tai 
 #EXTVLCOPT:http-referrer=https://hoadao.link/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -18,6 +13,11 @@ https://pull.globalcdnnetworksc2031.info/str01/blv-nguoi-cat.flv
 #EXTVLCOPT:http-referrer=https://hoadao.link/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://pull.globalcdnnetworksc2031.info/str01/blv-chao-quay.flv
+
+#EXTINF:-1 tvg-logo="https://hoadao.link/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp Backlash vs Backlash - Pháo 
+#EXTVLCOPT:http-referrer=https://hoadao.link/
+#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
+https://pull.globalcdnnetworksc2031.info/str01/blv-phao.flv
 
 #EXTINF:-1 tvg-logo="https://hoadao.link/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp Los Angeles Lakers vs OKC Thunder - Mr Dunkest 
 #EXTVLCOPT:http-referrer=https://hoadao.link/
