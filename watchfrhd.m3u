@@ -4,11 +4,6 @@
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://pull.globalcdnnetworksc2031.info/str01/blv-nguoi-kien.flv
 
-#EXTINF:-1 tvg-logo="https://hoadao.link/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp Athletic Club vs Valencia CF - Chim Nhỏ 
-#EXTVLCOPT:http-referrer=https://hoadao.link/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://pull.globalcdnnetworksc2031.info/str01/blv-chim-nho.flv
-
 #EXTINF:-1 tvg-logo="https://hoadao.link/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp FC Köln vs 1. FC Heidenheim 1846 - Văn Chuẩn 
 #EXTVLCOPT:http-referrer=https://hoadao.link/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
@@ -43,11 +38,6 @@ https://pull.globalcdnnetworksc2031.info/str01/blv-dylan.flv
 #EXTVLCOPT:http-referrer=https://hoadao.link/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
 https://pull.globalcdnnetworksc2031.info/str01/blv-chao-quay.flv
-
-#EXTINF:-1 tvg-logo="https://hoadao.link/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp Real Oviedo vs Getafe - Người Kiến 
-#EXTVLCOPT:http-referrer=https://hoadao.link/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://pull.globalcdnnetworksc2031.info/str01/blv-nguoi-kien.flv
 
 #EXTINF:-1 tvg-logo="https://hoadao.link/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp 1. FSV Mainz 05 vs 1. FC Union Berlin - Mèo Béo 
 #EXTVLCOPT:http-referrer=https://hoadao.link/
