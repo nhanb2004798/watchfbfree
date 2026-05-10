@@ -1,14 +1,4 @@
 #EXTM3U
-#EXTINF:-1 tvg-logo="https://hoadao.link/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp Khachanov vs Van De Zandschulp - Người Cát 
-#EXTVLCOPT:http-referrer=https://hoadao.link/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://pull.globalcdnnetworksc2031.info/str01/blv-nguoi-cat.flv
-
-#EXTINF:-1 tvg-logo="https://hoadao.link/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp Alexander Zverev vs Blockx - Người Kiến 
-#EXTVLCOPT:http-referrer=https://hoadao.link/
-#EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
-https://pull.globalcdnnetworksc2031.info/str01/blv-nguoi-kien.flv
-
 #EXTINF:-1 tvg-logo="https://hoadao.link/assets/image/hoadaotvlogo.png" group-title="Hoa Dao TV LIVE", Xem Trực Tiếp Bublik vs Tien - Người Kiến 
 #EXTVLCOPT:http-referrer=https://hoadao.link/
 #EXTVLCOPT:http-user-agent=Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36
